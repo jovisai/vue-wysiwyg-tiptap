@@ -11,11 +11,7 @@ npm install vue-wysiwyg-tiptap
 Peer dependencies (install alongside):
 
 ```bash
-npm install vue @tiptap/core @tiptap/vue-3 @tiptap/starter-kit @tiptap/pm \
-  @tiptap/extension-image @tiptap/extension-underline @tiptap/extension-link \
-  @tiptap/extension-placeholder @tiptap/extension-typography \
-  @tiptap/extension-task-list @tiptap/extension-task-item \
-  @tiptap/extension-mention @tiptap/extension-bubble-menu @tiptap/suggestion
+npm install vue @tiptap/core @tiptap/vue-3 @tiptap/pm
 ```
 
 ## Quick Start
