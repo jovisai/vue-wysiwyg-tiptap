@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import GettingStarted from './pages/GettingStarted.vue'
 import PropsAndEvents from './pages/PropsAndEvents.vue'
 import ImageUpload from './pages/ImageUpload.vue'
@@ -19,6 +19,6 @@ const routes = [
 ]
 
 export default createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes,
 })
