@@ -2,6 +2,8 @@
 
 A headless, extensible WYSIWYG rich-text editor for Vue 3 built on [Tiptap 3](https://tiptap.dev). Ships with slash commands, @mentions, AI text assist, image upload, markdown paste, and a bubble menu — all out of the box.
 
+![alt text](image.png)
+
 [Docs & Live Demos](https://jovisai.github.io/vue-wysiwyg-tiptap/) · [npm](https://www.npmjs.com/package/vue-wysiwyg-tiptap) · [GitHub](https://github.com/jovisai/vue-wysiwyg-tiptap)
 
 ## Features

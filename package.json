@@ -1,6 +1,6 @@
 {
   "name": "vue-wysiwyg-tiptap",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Headless WYSIWYG editor for Vue 3 built on Tiptap 3, with slash commands, mentions, AI assist, and markdown paste.",
   "type": "module",
   "main": "./dist/vue-wysiwyg-tiptap.umd.cjs",
