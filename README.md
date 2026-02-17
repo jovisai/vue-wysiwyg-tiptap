@@ -4,7 +4,7 @@ A headless, extensible WYSIWYG rich-text editor for Vue 3 built on [Tiptap 3](ht
 
 ![alt text](image.png)
 
-[Docs & Live Demos](https://jovisai.github.io/vue-wysiwyg-tiptap/) · [npm](https://www.npmjs.com/package/vue-wysiwyg-tiptap) · [GitHub](https://github.com/jovisai/vue-wysiwyg-tiptap)
+[Docs & Live Demos](https://jovisai.github.io/vue-wysiwyg-tiptap/) · [Try on StackBlitz](https://stackblitz.com/github/jovisai/vue-wysiwyg-tiptap/tree/main/examples/basic?file=src%2FApp.vue) · [npm](https://www.npmjs.com/package/vue-wysiwyg-tiptap) · [GitHub](https://github.com/jovisai/vue-wysiwyg-tiptap)
 
 ## Features
 
